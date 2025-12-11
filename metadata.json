@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel Shield - Security Ops",
+  "description": "A comprehensive security dashboard simulating advanced Android threat detection, network monitoring, and behavioral analysis using Gemini AI.",
+  "requestFramePermissions": []
+}
